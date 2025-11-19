@@ -1,8 +1,1 @@
-{
-  "emulators": {
-    "singleProjectMode": true
-  },
-  "remoteconfig": {
-    "template": "remoteconfig.template.json"
-  }
-}
+{"emulators":{"singleProjectMode":true},"remoteconfig":{"template":"remoteconfig.template.json"},"flutter":{"platforms":{"android":{"default":{"projectId":"itemized-share-app","appId":"1:1032645976076:android:85e256134ea860b9438e29","fileOutput":"android/app/google-services.json"}},"dart":{"lib/app/config/firebase/firebase_options_dev.dart":{"projectId":"itemized-share-app-dev","configurations":{"android":"1:473195257286:android:a617ef4ea598c39c5e26c7","ios":"1:473195257286:ios:43835cf992b889865e26c7"}},"lib/app/config/firebase/firebase_options.dart":{"projectId":"itemized-share-app","configurations":{"android":"1:1032645976076:android:85e256134ea860b9438e29","ios":"1:1032645976076:ios:4c64f9df5ad40b42438e29"}}}}}}
