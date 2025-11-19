@@ -1,0 +1,6 @@
+{
+    "flavor": "prod",
+    "appName": "Yoropic!",
+    "androidPackageName": "com.yakuran.yoropic",
+    "iosBundleId": "com.yakuran.yoropic"
+}
