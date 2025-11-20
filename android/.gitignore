@@ -17,4 +17,7 @@ key.properties
 google-services.json
 
 # Add: Dart-define
-**/main/res/
+/main/res_bk/
+
+# Add: Session
+.kotlin/
