@@ -15,3 +15,6 @@ key.properties
 
 # Add: Firebase
 google-services.json
+
+# Add: Dart-define
+**/main/res/
