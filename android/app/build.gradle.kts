@@ -1,3 +1,10 @@
+// Add: `dart-define`でファイルを読み込みのため
+import java.util.Base64
+
+// Add: `*.properties`ファイルの読み込みのため
+import java.io.FileInputStream
+import java.util.Properties
+
 plugins {
     id("com.android.application")
     id("kotlin-android")
