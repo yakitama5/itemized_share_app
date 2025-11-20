@@ -6,3 +6,11 @@ translate_var: i18n
 input_file_pattern: .i18n.yaml
 namespaces: true
 lazy: false
+
+
+# Config
+imports:
+  - "package:itemized_share_app/app/core/exception/business_exception_type.dart"
+contexts:
+  BusinessExceptionType:
+    generate_enum: false

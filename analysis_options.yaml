@@ -3,6 +3,11 @@ include: package:pedantic_mono/analysis_options.yaml
 linter:
   rules:
 
+custom_lint:
+  rules:
+    - unstable_enum_values: false
+    - unsafe_null_assertions: false
+
 analyzer:
   plugins:
     - custom_lint

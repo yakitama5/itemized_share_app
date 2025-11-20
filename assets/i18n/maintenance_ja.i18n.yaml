@@ -1,0 +1,12 @@
+common:
+  forceUpdateDialog: 
+    message: >-
+      新しいバージョンが公開されています。
+      アップデートを行うと、新しい機能をご利用いただけます。
+      アップデートを行いますか？
+    navigateToStore: 'ストアを開く'
+  updatePossibleDialog:
+    message: >-
+      ご利用のバージョンは現在ご利用出来ません。
+      ストアから新しいバージョンをご利用下さい。
+    navigateToStore: 'ストアを開く'

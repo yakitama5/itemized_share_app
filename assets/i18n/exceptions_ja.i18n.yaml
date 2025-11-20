@@ -1,0 +1,5 @@
+businessException(context=BusinessExceptionType):
+  deleted: 削除済です。
+  updateTargetNotFound: 保存に失敗しました、あらためて操作を行ってください。
+errorMessage:
+  unexpected: 予期せぬエラーが発生しました。
